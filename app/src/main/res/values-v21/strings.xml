@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Profile App Development</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="nav_header_title">App Development</string>
+    <string name="nav_header_subtitle">nevtikappdevelopment@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nama_galuh">Nama : Galuh Arya Damar</string>
+    <string name="kelas_galuh">Kelas : X RPL 2</string>
+    <string name="ttl_galuh">TTL : Sukoharjo, 23 Juni 2005</string>
+    <string name="jk_galuh">Jenis Kelamin : Laki-laki</string>
+    <string name="alamat">Alamat :</string>
+    <string name="alamat_galuh">JL. Kayu Manis RT/RW 04/04, Cibinong, Bogor</string>
+    <string name="sekolah">Sekolah :</string>
+    <string name="smk">SMKN 01 Cibinong</string>
+
+    <string name="nama_nanda">Nama : Nanda Putriasari</string>
+    <string name="kelas_nanda">Kelas : X TKJ</string>
+    <string name="ttl_nanda">TTL : Bogor, 22 Juni 2005</string>
+    <string name="jk_nanda">Jenis Kelamin : Perempuan</string>
+    <string name="alamat_nanda">JL. Adan RT/RW 02/08 Sukahati, Cibinong, Bogor</string>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.profileappdevelopment">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_nevtik"
+        android:label="Nevtik App"
+        android:roundIcon="@mipmap/ic_nevtik"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProfileAppDevelopment">
+        <activity android:name=".NanNavDrawer"></activity>
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CreditActivity"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".GaluhActivity" />
+        <activity android:name=".NandaActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
